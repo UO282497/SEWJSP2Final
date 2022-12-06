@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>Ejercicio11</title>
+    <!--Metadatos de los documentos HTML5-->
+    <meta name="author" content="Sergio" />
+    <meta name="description" content="Ejercicio10" />
+
+    <!--Definición de la ventana gráfica-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="ejercicio11.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js"></script>
+    <script async="" defer=""
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFkxLYXHnHQ59GAIfFPqZDlVI2pv0H8bU&amp;callback=m.getMapaDin">
+        </script>
+    <!-- añadir el elemento link de enlace a la hoja de estilo dentro del <head> del documento html -->
+    <link rel="stylesheet" type="text/css" href="ejercicio11.css" />
+</head>
+
+<body>
+    <h1>Información de la localización del usuario</h1>
+    <input type="button" value="Obtener mapa dinámico" title="Obtener mapa dinámico" onclick="m.getMapaDin()">
+    <section>
+        <h2>Panel de mapa</h2>
+    </section>
+    <input type="button" value="Obtener mapa estático" title="Obtener mapa estático"
+        onclick="m.getMapaEstatico('aside')">
+
+    <aside>
+        <h2>Panel de mapa</h2>
+    </aside>
+    <article id="map">
+        <h2>Panel de mapa</h2>
+    </article>
+</body>

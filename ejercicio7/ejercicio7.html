@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>Ejercicio7</title>
+    <!--Metadatos de los documentos HTML5-->
+    <meta name="author" content="Sergio" />
+    <meta name="description" content="Ejercicio7" />
+
+    <!--Definición de la ventana gráfica-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="ejercicio7.js"></script>
+
+
+    <!-- añadir el elemento link de enlace a la hoja de estilo dentro del <head> del documento html -->
+    <link rel="stylesheet" type="text/css" href="ejercicio7.css" />
+</head>
+
+<body>
+    <h1>
+        Modificador de párrafos
+    </h1>
+    <p>
+        Párrafo ocultable.
+    </p>
+
+    <p>
+        Párrafo ocultable.
+    </p>
+    <input type="button" title="Ocultar" value="Ocultar" name="Ocultar" onclick="manager.ocultar()">
+    <input type="button" title="Mostrar" value="Mostrar" name="Mostrar" onclick="manager.mostrar()">
+    <input type="button" title="Modificar" value="Modificar" name="Modificar" onclick="manager.modificarTexto()">
+    <input type="button" title="Deshacer" value="Deshacer" name="Deshacer" onclick="manager.deshacerModificacion()">
+
+    <ul>
+        <li>
+            <input type="button" title="Eliminar" value="Eliminar" name="Eliminar" onclick="manager.eliminar()">
+        </li>
+        <li>
+            <input type="button" title="Nuevo parrafo" value="Nuevo parrafo" name="Nuevo parrafo"
+                onclick="manager.nuevo()">
+        </li>
+        <li>
+            <input type="button" title="Añadir" value="Añadir" name="Añadir" onclick="manager.añadirTexto()">
+
+            <section>
+                <h2>Seccion</h2>
+
+            </section>
+        </li>
+
+
+    </ul>
+
+    <table>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+
+    </table>
+
+    <input type="button" title="Contar" value="Contar" name="Contar" onclick="manager.contar()">
+    <main>
+        <p>
+
+        </p>
+    </main>
+    <input type="button" title="Analizar" value="Analizar" name="Analizar" onclick="manager.analizar()">
+    <article>
+        <h2>Estructura del html</h2>
+        <p>
+
+        </p>
+
+
+    </article>
+
+
+</body>

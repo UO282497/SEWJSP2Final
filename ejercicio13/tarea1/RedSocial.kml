@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.google.com/earth/kml/2">
+<Document>
+  <name>MAPA DE RED SOCIAL</name><Placemark>
+    <name>PEPE GOMEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: PEPE GOMEZ</description>
+    <Point>
+      <coordinates>-5.950879,43.354821,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>PEPE GOMEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: PEPE GOMEZ</description>
+    <Point>
+      <coordinates>-5.927832,43.555702,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>ALVARO GOMEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: ALVARO GOMEZ</description>
+    <Point>
+      <coordinates>-5.227832,42.325702,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>ALVARO GOMEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: ALVARO GOMEZ</description>
+    <Point>
+      <coordinates>-5.934832,42.555702,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JAIME PEREZ</name>
+    <description>LUGAR DE NACIMIENTO DE: JAIME PEREZ</description>
+    <Point>
+      <coordinates>-5.521079,43.354821,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JAIME PEREZ</name>
+    <description>LUGAR DE RESIDENCIA DE: JAIME PEREZ</description>
+    <Point>
+      <coordinates>-5.645079,43.354821,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JUAN GARCIA</name>
+    <description>LUGAR DE NACIMIENTO DE: JUAN GARCIA</description>
+    <Point>
+      <coordinates>-5.691521,43.304360,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JUAN GARCIA</name>
+    <description>LUGAR DE RESIDENCIA DE: JUAN GARCIA</description>
+    <Point>
+      <coordinates>-5.850879,43.351842,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>SERGIO SIERRA</name>
+    <description>LUGAR DE NACIMIENTO DE: SERGIO SIERRA</description>
+    <Point>
+      <coordinates>-5.853679,43.311821,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>SERGIO SIERRA</name>
+    <description>LUGAR DE RESIDENCIA DE: SERGIO SIERRA</description>
+    <Point>
+      <coordinates>-5.622521,43.322160,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JOSE ALVAREZ</name>
+    <description>LUGAR DE NACIMIENTO DE: JOSE ALVAREZ</description>
+    <Point>
+      <coordinates>-5.923332,43.533702,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JOSE ALVAREZ</name>
+    <description>LUGAR DE RESIDENCIA DE: JOSE ALVAREZ</description>
+    <Point>
+      <coordinates>-5.633521,43.307330,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARTIN GOMEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: MARTIN GOMEZ</description>
+    <Point>
+      <coordinates>-5.694421,43.344160,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARTIN GOMEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: MARTIN GOMEZ</description>
+    <Point>
+      <coordinates>-5.644521,43.304160,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>PEDRO DIAZ</name>
+    <description>LUGAR DE NACIMIENTO DE: PEDRO DIAZ</description>
+    <Point>
+      <coordinates>-6.155654,43.455086,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>PEDRO DIAZ</name>
+    <description>LUGAR DE RESIDENCIA DE: PEDRO DIAZ</description>
+    <Point>
+      <coordinates>-5.855579,43.355521,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>LUCAS MARTINEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: LUCAS MARTINEZ</description>
+    <Point>
+      <coordinates>-5.857779,43.354771,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>LUCAS MARTINEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: LUCAS MARTINEZ</description>
+    <Point>
+      <coordinates>-6.116654,43.485586,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARIO GONZALEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: MARIO GONZALEZ</description>
+    <Point>
+      <coordinates>-5.954832,43.555342,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARIO GONZALEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: MARIO GONZALEZ</description>
+    <Point>
+      <coordinates>-6.113254,43.445086,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>SARA FERNANDEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: SARA FERNANDEZ</description>
+    <Point>
+      <coordinates>-6.342654,43.412486,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>SARA FERNANDEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: SARA FERNANDEZ</description>
+    <Point>
+      <coordinates>-5.923232,43.512702,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JAVIER GOMEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: JAVIER GOMEZ</description>
+    <Point>
+      <coordinates>-6.334654,43.423546,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>JAVIER GOMEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: JAVIER GOMEZ</description>
+    <Point>
+      <coordinates>-5.693451,43.303560,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARIO GOMEZ</name>
+    <description>LUGAR DE NACIMIENTO DE: MARIO GOMEZ</description>
+    <Point>
+      <coordinates>-5.834879,43.356421,0</coordinates>
+    </Point>
+  </Placemark><Placemark>
+    <name>MARIO GOMEZ</name>
+    <description>LUGAR DE RESIDENCIA DE: MARIO GOMEZ</description>
+    <Point>
+      <coordinates>-5.811879,43.322821,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

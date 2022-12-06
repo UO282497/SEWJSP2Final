@@ -1,0 +1,19 @@
+/*Especificidad: 001*/
+body {
+  font-family: Tahoma, sans-serif;
+  color: #000;
+  background-color: #fff;
+}
+
+pre {
+  color: #000;
+}
+
+main {
+  height: 37em;
+  width: 50em;
+  margin: 0 auto;
+
+}
+
+/*Especificidad: 001*/

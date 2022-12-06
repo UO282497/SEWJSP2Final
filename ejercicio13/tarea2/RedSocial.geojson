@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "MAPA DE RED SOCIAL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PEPE GOMEZ", "description": "LUGAR DE NACIMIENTO DE: PEPE GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.950879, 43.354821 ] } },
+{ "type": "Feature", "properties": { "Name": "PEPE GOMEZ", "description": "LUGAR DE RESIDENCIA DE: PEPE GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.927832, 43.555702 ] } },
+{ "type": "Feature", "properties": { "Name": "ALVARO GOMEZ", "description": "LUGAR DE NACIMIENTO DE: ALVARO GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.227832, 42.325702 ] } },
+{ "type": "Feature", "properties": { "Name": "ALVARO GOMEZ", "description": "LUGAR DE RESIDENCIA DE: ALVARO GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.934832, 42.555702 ] } },
+{ "type": "Feature", "properties": { "Name": "JAIME PEREZ", "description": "LUGAR DE NACIMIENTO DE: JAIME PEREZ" }, "geometry": { "type": "Point", "coordinates": [ -5.521079, 43.354821 ] } },
+{ "type": "Feature", "properties": { "Name": "JAIME PEREZ", "description": "LUGAR DE RESIDENCIA DE: JAIME PEREZ" }, "geometry": { "type": "Point", "coordinates": [ -5.645079, 43.354821 ] } },
+{ "type": "Feature", "properties": { "Name": "JUAN GARCIA", "description": "LUGAR DE NACIMIENTO DE: JUAN GARCIA" }, "geometry": { "type": "Point", "coordinates": [ -5.691521, 43.30436 ] } },
+{ "type": "Feature", "properties": { "Name": "JUAN GARCIA", "description": "LUGAR DE RESIDENCIA DE: JUAN GARCIA" }, "geometry": { "type": "Point", "coordinates": [ -5.850879, 43.351842 ] } },
+{ "type": "Feature", "properties": { "Name": "SERGIO SIERRA", "description": "LUGAR DE NACIMIENTO DE: SERGIO SIERRA" }, "geometry": { "type": "Point", "coordinates": [ -5.853679, 43.311821 ] } },
+{ "type": "Feature", "properties": { "Name": "SERGIO SIERRA", "description": "LUGAR DE RESIDENCIA DE: SERGIO SIERRA" }, "geometry": { "type": "Point", "coordinates": [ -5.622521, 43.32216 ] } },
+{ "type": "Feature", "properties": { "Name": "JOSE ALVAREZ", "description": "LUGAR DE NACIMIENTO DE: JOSE ALVAREZ" }, "geometry": { "type": "Point", "coordinates": [ -5.923332, 43.533702 ] } },
+{ "type": "Feature", "properties": { "Name": "JOSE ALVAREZ", "description": "LUGAR DE RESIDENCIA DE: JOSE ALVAREZ" }, "geometry": { "type": "Point", "coordinates": [ -5.633521, 43.30733 ] } },
+{ "type": "Feature", "properties": { "Name": "MARTIN GOMEZ", "description": "LUGAR DE NACIMIENTO DE: MARTIN GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.694421, 43.34416 ] } },
+{ "type": "Feature", "properties": { "Name": "MARTIN GOMEZ", "description": "LUGAR DE RESIDENCIA DE: MARTIN GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.644521, 43.30416 ] } },
+{ "type": "Feature", "properties": { "Name": "PEDRO DIAZ", "description": "LUGAR DE NACIMIENTO DE: PEDRO DIAZ" }, "geometry": { "type": "Point", "coordinates": [ -6.155654, 43.455086 ] } },
+{ "type": "Feature", "properties": { "Name": "PEDRO DIAZ", "description": "LUGAR DE RESIDENCIA DE: PEDRO DIAZ" }, "geometry": { "type": "Point", "coordinates": [ -5.855579, 43.355521 ] } },
+{ "type": "Feature", "properties": { "Name": "LUCAS MARTINEZ", "description": "LUGAR DE NACIMIENTO DE: LUCAS MARTINEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.857779, 43.354771 ] } },
+{ "type": "Feature", "properties": { "Name": "LUCAS MARTINEZ", "description": "LUGAR DE RESIDENCIA DE: LUCAS MARTINEZ" }, "geometry": { "type": "Point", "coordinates": [ -6.116654, 43.485586 ] } },
+{ "type": "Feature", "properties": { "Name": "MARIO GONZALEZ", "description": "LUGAR DE NACIMIENTO DE: MARIO GONZALEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.954832, 43.555342 ] } },
+{ "type": "Feature", "properties": { "Name": "MARIO GONZALEZ", "description": "LUGAR DE RESIDENCIA DE: MARIO GONZALEZ" }, "geometry": { "type": "Point", "coordinates": [ -6.113254, 43.445086 ] } },
+{ "type": "Feature", "properties": { "Name": "SARA FERNANDEZ", "description": "LUGAR DE NACIMIENTO DE: SARA FERNANDEZ" }, "geometry": { "type": "Point", "coordinates": [ -6.342654, 43.412486 ] } },
+{ "type": "Feature", "properties": { "Name": "SARA FERNANDEZ", "description": "LUGAR DE RESIDENCIA DE: SARA FERNANDEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.923232, 43.512702 ] } },
+{ "type": "Feature", "properties": { "Name": "JAVIER GOMEZ", "description": "LUGAR DE NACIMIENTO DE: JAVIER GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -6.334654, 43.423546 ] } },
+{ "type": "Feature", "properties": { "Name": "JAVIER GOMEZ", "description": "LUGAR DE RESIDENCIA DE: JAVIER GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.693451, 43.30356 ] } },
+{ "type": "Feature", "properties": { "Name": "MARIO GOMEZ", "description": "LUGAR DE NACIMIENTO DE: MARIO GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.834879, 43.356421 ] } },
+{ "type": "Feature", "properties": { "Name": "MARIO GOMEZ", "description": "LUGAR DE RESIDENCIA DE: MARIO GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -5.811879, 43.322821 ] } }
+]
+}

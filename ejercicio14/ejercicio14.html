@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>Visualizador ciudades</title>
+    <!--Metadatos de los documentos HTML5-->
+    <meta name="author" content="Sergio" />
+    <meta name="description" content="Ejercicio13" />
+
+    <!--Definición de la ventana gráfica-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="ejercicio14.js"></script>
+    <script async="" defer=""
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFkxLYXHnHQ59GAIfFPqZDlVI2pv0H8bU&amp;callback=m.getMapaDin">
+        </script>
+    <!-- añadir el elemento link de enlace a la hoja de estilo dentro del <head> del documento html -->
+    <link rel="stylesheet" type="text/css" href="ejercicio14.css" />
+</head>
+
+<body>
+    <h1>Constructor de ciudades</h1>
+    <p>Suba su plano en formato xml para previsualizar la ciudad</p>
+    <label for="archivoTexto">Suba sus archivos</label>
+    <input type="file" id="archivoTexto" onchange="m.calcularTamañoArchivos();">
+    <main>
+    </main>
+</body>

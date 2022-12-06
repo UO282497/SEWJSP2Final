@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <ciudad>
+  <estructuras>
+    <edificio>1</edificio>
+    <edificio>2</edificio>
+    <carretera>1</carretera>
+    <plaza>1</plaza>
+  </estructuras>
+  <coordenadas>40.41381375139418,-3.692018243666149</coordenadas>
+  
+</ciudad>
